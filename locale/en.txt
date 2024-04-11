@@ -1,0 +1,100 @@
+#: locale=en
+
+## Action
+
+### URL
+PopupWebFrameBehaviour_D6A3F8B3_F443_880D_41E4_5C0848E6B18E.url = https://museumperm.ru/
+LinkBehaviour_D3FA7EBF_C5FD_0C7B_41DB_5182DE48182E.source = https://museumperm.ru/branch/mpd
+
+## Media
+
+### Floorplan
+
+### Image
+imlevel_D5860C40_C951_9E48_41BD_057CC38CD2EE.url = media/map_DAB01721_C950_8BCB_41C4_DDA252874457_ru_0.png
+imlevel_D5866C40_C951_9E48_41E7_8A6B62D4FD18.url = media/map_DAB01721_C950_8BCB_41C4_DDA252874457_ru_1.png
+imlevel_D5864C40_C951_9E48_41CC_227FCCA50F68.url = media/map_DAB01721_C950_8BCB_41C4_DDA252874457_ru_2.png
+imlevel_D5865C40_C951_9E48_41E7_F59022065FBC.url = media/map_DAB01721_C950_8BCB_41C4_DDA252874457_ru_3.png
+imlevel_D5868C41_C951_9E48_41CE_8A4D0FBF3DD5.url = media/map_DAB01721_C950_8BCB_41C4_DDA252874457_ru_4.png
+imlevel_D5814D97_C951_9EC8_41E1_ABBF15CDF191.url = media/map_DB29E4D1_C951_8E48_4199_B4013D9562A6_ru_0.png
+imlevel_D581BD98_C951_9EF8_41C4_E46F79D6A86B.url = media/map_DB29E4D1_C951_8E48_4199_B4013D9562A6_ru_1.png
+imlevel_D5819D98_C951_9EF8_41D9_861A1EF5EFD9.url = media/map_DB29E4D1_C951_8E48_4199_B4013D9562A6_ru_2.png
+imlevel_D581ED98_C951_9EF8_41E4_8DEA546DF452.url = media/map_DB29E4D1_C951_8E48_4199_B4013D9562A6_ru_3.png
+imlevel_D581CD98_C951_9EF8_41B2_7B7D2C112B14.url = media/map_DB29E4D1_C951_8E48_4199_B4013D9562A6_ru_4.png
+imlevel_D5833CF2_C951_9E48_41B3_3C6C4EDA4E63.url = media/map_DBBF95FB_C950_8E38_41C6_10A0120F83F8_ru_0.png
+imlevel_D5831CF2_C951_9E48_41E3_0081CA59A96B.url = media/map_DBBF95FB_C950_8E38_41C6_10A0120F83F8_ru_1.png
+imlevel_D5837CF2_C951_9E48_41CB_ED9D90CE1F42.url = media/map_DBBF95FB_C950_8E38_41C6_10A0120F83F8_ru_2.png
+imlevel_D5834CF2_C951_9E48_41D9_54F69C9EE237.url = media/map_DBBF95FB_C950_8E38_41C6_10A0120F83F8_ru_3.png
+imlevel_D583ACF3_C951_9E48_41E0_595AD4125A4E.url = media/map_DBBF95FB_C950_8E38_41C6_10A0120F83F8_ru_4.png
+
+### Title
+map_DAB01721_C950_8BCB_41C4_DDA252874457.label = 0 этаж
+panorama_DF478331_C930_8BC8_41E8_E74D5E71AD7A.label = 010
+panorama_DD29EDF7_C930_9E48_41E3_AAC46F2264D0.label = 013
+panorama_C206399B_C931_86F8_41D9_9F2E400EA9A7.label = 017
+panorama_C233374B_C931_8A58_41E7_D4C65E28EA6F.label = 019
+panorama_C236D0E2_C931_8648_41B1_0370A66CCEFE.label = 030
+panorama_C2301A7E_C931_FA38_41DF_BE8529E23C8B.label = 031
+panorama_C230E442_C931_8E48_41DD_C2AD4B7D4DCF.label = 038
+panorama_C2334E1D_C931_9DF8_41D0_CEEA9C01C978.label = 042
+panorama_C230A7FC_C931_8A38_41E2_219E9E50083F.label = 044
+panorama_C233713C_C931_8638_41CC_423DA3039869.label = 048
+panorama_C2332AEE_C931_9A58_41E5_64DFC7CCC02D.label = 057
+panorama_C233E4F6_C931_8E48_41E6_0DA32E888517.label = 067
+panorama_C233EE65_C930_7A48_41D4_A5C95380F141.label = 069
+panorama_C23337CC_C930_8A58_41CD_4B45E87A12ED.label = 073
+panorama_C23361A2_C930_86C8_41DE_4C240C6CA1FA.label = 079
+panorama_C2321BA2_C930_BAC8_41CC_4C9047862B62.label = 085
+panorama_C232C54B_C930_8E58_41E3_95FA58DEDF10.label = 089
+panorama_C2324F5B_C930_9A78_41E6_F0F65AAA2B7C.label = 096
+map_DBBF95FB_C950_8E38_41C6_10A0120F83F8.label = 1 этаж
+panorama_C2320937_C930_87C8_41E7_4B6D5161BA87.label = 103
+panorama_C22DE2E3_C930_8A48_41E0_AC1EDF68BC86.label = 106
+panorama_C22D8CDF_C930_9E78_41DE_1615C0213087.label = 113
+panorama_C22DD639_C930_8A38_41E4_D3BFADDD459A.label = 128
+panorama_C22D9095_C930_86C8_41E1_D36436350CD1.label = 140
+panorama_C22D0A3D_C930_9A38_41BC_626A31DD45E9.label = 145
+panorama_C22CD400_C930_8DC8_41E4_685381071E7B.label = 151
+panorama_C22CBDB4_C930_7EC8_41BF_8B529966A000.label = 153
+panorama_C22F7723_C933_8BCF_41B3_5FF3D989177B.label = 157
+panorama_C22C30B6_C933_86C8_41C9_C7D901B3A474.label = 160
+panorama_C22C2ACD_C933_BA58_41CD_E349C19BC187.label = 163
+map_DB29E4D1_C951_8E48_4199_B4013D9562A6.label = 2 этаж
+
+## Skin
+
+### Dropdown
+DropDown_5DA6990E_4CD6_70D2_41D1_8E71711F77ED.prompt = Выберите зал
+DropDown_ECB1CA28_F441_881A_41E5_4F2F301195FC.prompt = Выберите зал
+DropDown_D246766A_C7ED_7F3E_41A0_81EA7EE2846C.prompt = Выберите зал
+
+### Image
+Image_D42DCB9F_F4C6_8836_41DE_9FE19641CF90.url = skin/Image_D42DCB9F_F4C6_8836_41DE_9FE19641CF90_ru.png
+Image_D431EDEF_F4C3_8816_41EB_F03BFD80D132.url = skin/Image_D431EDEF_F4C3_8816_41EB_F03BFD80D132_ru.png
+Image_D5C6066E_F4CE_9816_41DC_4E2EC1EF0499.url = skin/Image_D5C6066E_F4CE_9816_41DC_4E2EC1EF0499_ru.png
+Image_E6455784_F5D0_6714_41C1_FE185439A6F8.url = skin/Image_E6455784_F5D0_6714_41C1_FE185439A6F8_ru.png
+Image_EAC7D3C6_F4C7_B816_4190_064C15D8A268.url = skin/Image_EAC7D3C6_F4C7_B816_4190_064C15D8A268_ru.png
+Image_EC5C7A05_F5C7_880A_41E9_3E794EB89A79.url = skin/Image_EC5C7A05_F5C7_880A_41E9_3E794EB89A79_ru.png
+Image_EE7AFC0C_F442_881B_41EA_42314EF286D4.url = skin/Image_EE7AFC0C_F442_881B_41EA_42314EF286D4_ru.png
+
+### Label
+Label_42263FEF_4CD6_0F52_41D2_4097CFD6B64D.text = 0 этаж
+Label_584841E1_4D84_B0B7_41B7_7BBFD14EAC35.text = 0 этаж
+Label_432DF36D_4CD2_1757_41BF_8BF4ADF37685.text = 1 этаж
+Label_5BF67327_4D84_B1BB_41C3_E666C523AA75.text = 1 этаж
+Label_D2712D9A_C7F5_6D1E_41D7_22D209123270.text = 2 этаж
+Label_D2554AF2_C7F5_772E_41E8_DB2B58B8C643.text = 2 этаж
+Label_EC6B73B5_F441_9875_41E2_2CB29770B98C.text = museum of Perm antiquities
+
+### Multiline Text
+HTMLText_FD74BBA1_F0A8_FC6A_41E2_F0B480B4A63A.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:18px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:18px;font-family:'Gilroy Light';">sensor safety card</SPAN></SPAN></DIV></div>
+HTMLText_FF2872A2_F0B8_EC6E_41BB_3D7CEDDD068D.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:18px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:18px;font-family:'Gilroy Light';">sightseeing tour</SPAN></SPAN></DIV></div>
+HTMLText_FFE5103D_F0B9_6C55_41B4_1BDC24214088.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:18px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:18px;font-family:'Gilroy Light';">social history</SPAN></SPAN></DIV></div>
+HTMLText_FFB5F4BF_F0BB_F456_416D_340F8F504257.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:18px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:18px;font-family:'Gilroy Light';">thematic tour</SPAN></SPAN></DIV></div>
+
+## Tour
+
+### Description
+
+### Title
+tour.name = Untitled 2
