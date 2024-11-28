@@ -10,9 +10,9 @@ PopupPDFBehaviour_BCFB1096_926D_F8D4_41A2_00604E10AC01.url = files/%D0%BE%D0%BF%
 ### URL
 LinkBehaviour_19588586_3D2B_A87B_41CA_E3CA9CDA448A.source = https://museumperm.ru/branch/dommeshkova
 LinkBehaviour_D3FA7EBF_C5FD_0C7B_41DB_5182DE48182E.source = https://museumperm.ru/branch/dommeshkova
-LinkBehaviour_1B798CD9_3D27_B989_41C0_C031800A7D42.source = https://rutube.ru/video/private/1dff78b8db6dff98db503ec9e92661b6/?p=LQVRDYohu_5pup4wI7NngA
-LinkBehaviour_18533EAB_3D27_B988_41C8_B76DBA7D1892.source = https://rutube.ru/video/private/86de5fe52e68658596b9f2faeef7667d/?p=KBYVcDnVdnnqwpAdybEDXQ
-LinkBehaviour_97DA9EB6_B575_BC4F_41AC_90FEE66FA9E2.source = https://rutube.ru/video/private/ecefe3a78769128ab25d2c4f748779c7/?p=c9qkuWS6Ji9m3yCqDmw7hg
+LinkBehaviour_1B798CD9_3D27_B989_41C0_C031800A7D42.source = https://rutube.ru/video/private/ef003b1b92bb6e7ef3cf89f925a29c34/?p=vaS-_ZRDPNIIwSueR8hoWw
+LinkBehaviour_18533EAB_3D27_B988_41C8_B76DBA7D1892.source = https://rutube.ru/video/private/72d8e3279088130a0f84b335546bfe98/?p=YSaDSQsqcpW0FcIZr5SquA
+LinkBehaviour_97DA9EB6_B575_BC4F_41AC_90FEE66FA9E2.source = https://rutube.ru/video/private/eb3e51f28f015b26a9a7dd9382f94843/?p=RekQiOrNeAEwxL3xK_MgKQ
 
 ## E-Learning
 
